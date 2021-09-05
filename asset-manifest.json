@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/eventi-univr/static/css/main.b527cb75.chunk.css",
-    "main.js": "/eventi-univr/static/js/main.7c23d140.chunk.js",
-    "main.js.map": "/eventi-univr/static/js/main.7c23d140.chunk.js.map",
+    "main.js": "/eventi-univr/static/js/main.8e572b51.chunk.js",
+    "main.js.map": "/eventi-univr/static/js/main.8e572b51.chunk.js.map",
     "runtime-main.js": "/eventi-univr/static/js/runtime-main.545a1244.js",
     "runtime-main.js.map": "/eventi-univr/static/js/runtime-main.545a1244.js.map",
     "static/css/2.818011ed.chunk.css": "/eventi-univr/static/css/2.818011ed.chunk.css",
-    "static/js/2.529f6d83.chunk.js": "/eventi-univr/static/js/2.529f6d83.chunk.js",
-    "static/js/2.529f6d83.chunk.js.map": "/eventi-univr/static/js/2.529f6d83.chunk.js.map",
+    "static/js/2.ba389ab8.chunk.js": "/eventi-univr/static/js/2.ba389ab8.chunk.js",
+    "static/js/2.ba389ab8.chunk.js.map": "/eventi-univr/static/js/2.ba389ab8.chunk.js.map",
     "index.html": "/eventi-univr/index.html",
     "static/css/2.818011ed.chunk.css.map": "/eventi-univr/static/css/2.818011ed.chunk.css.map",
     "static/css/main.b527cb75.chunk.css.map": "/eventi-univr/static/css/main.b527cb75.chunk.css.map",
-    "static/js/2.529f6d83.chunk.js.LICENSE.txt": "/eventi-univr/static/js/2.529f6d83.chunk.js.LICENSE.txt"
+    "static/js/2.ba389ab8.chunk.js.LICENSE.txt": "/eventi-univr/static/js/2.ba389ab8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.545a1244.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.529f6d83.chunk.js",
+    "static/js/2.ba389ab8.chunk.js",
     "static/css/main.b527cb75.chunk.css",
-    "static/js/main.7c23d140.chunk.js"
+    "static/js/main.8e572b51.chunk.js"
   ]
 }
