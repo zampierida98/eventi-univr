@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eventi-univr/static/css/main.b527cb75.chunk.css",
-    "main.js": "/eventi-univr/static/js/main.23a1e04a.chunk.js",
-    "main.js.map": "/eventi-univr/static/js/main.23a1e04a.chunk.js.map",
+    "main.js": "/eventi-univr/static/js/main.bcf70d0b.chunk.js",
+    "main.js.map": "/eventi-univr/static/js/main.bcf70d0b.chunk.js.map",
     "runtime-main.js": "/eventi-univr/static/js/runtime-main.545a1244.js",
     "runtime-main.js.map": "/eventi-univr/static/js/runtime-main.545a1244.js.map",
     "static/css/2.818011ed.chunk.css": "/eventi-univr/static/css/2.818011ed.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.ba389ab8.chunk.js",
     "static/css/main.b527cb75.chunk.css",
-    "static/js/main.23a1e04a.chunk.js"
+    "static/js/main.bcf70d0b.chunk.js"
   ]
 }
